@@ -10,3 +10,8 @@ pip3 install --upgrade pip
 python --version
 pip --version
 where python
+
+
+
+Run Jupyter Notebook:
+$jupyter --notbook
